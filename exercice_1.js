@@ -1,3 +1,10 @@
+/*****************************************************
+Correcteur: Yannick GOUGUIA
+Je ne vois pas de variable fruits dans votre code. 
+code sans commentaires.
+*****************************************************/
+
+
 //1- 
 fruits.shift();
 
