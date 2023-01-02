@@ -1,3 +1,5 @@
+const fruits = ["Banana", "Apples", "Oranges", "Blueberries"];
+
 //1- 
 fruits.shift();
 
